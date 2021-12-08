@@ -18,4 +18,4 @@ def fib(n):
 
 
 # 计算43 一下子就出来了哦
-print(fib(10))
+print(fib(43))
